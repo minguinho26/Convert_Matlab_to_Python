@@ -1,5 +1,5 @@
 # Convert_Matlab_to_Python
-Convert Matlab code To Python. 
+Convert Matlab code to Python. 
 
 <br>
 
